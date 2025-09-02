@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.RData
+*.csv  # if you don't want to push large raw datasets
+.DS_Store
